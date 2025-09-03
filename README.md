@@ -6,7 +6,9 @@ Sampling Experiment (Nyquist Theorem Demo)
 In this project, I did a project in MATLAB to see how sampling a 100 Hz sine wave works with different sampling rates.
 
 What I Did ?
-Made a smooth analog sine wave (100 Hz).
+Run a smooth analog sine wave (100 Hz).
+
+I have created different files for below, above and at Nyquist.
 
 Sampled it at 150 Hz (below Nyquist), 200 Hz (at Nyquist), and 250 Hz (above Nyquist).
 
